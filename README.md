@@ -22,7 +22,7 @@ Uso de herramientas de AI para creación del tareas y programas está totalmente
 ## Grupo de trabajo de telegram
 [https://t.me/+MxIVXxHXKPM1YWEz](https://t.me/+IkH_e41JnS44ODJh)
 
-![image](https://github.com/user-attachments/assets/b368b203-ab62-4c56-848b-2c26be57414c)
+<img src="https://github.com/user-attachments/assets/b368b203-ab62-4c56-848b-2c26be57414c" width="350" height="350">
 
 ## Bibliografía
 * Under construction
