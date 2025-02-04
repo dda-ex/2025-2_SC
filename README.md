@@ -10,8 +10,8 @@ La evaluación del curso será la siguiente:
 |  Porcentaje  |     Apartado     |
 |:------------:|:----------------:|
 |      80%     | Examen practico* |
-|      20%     |  Examen teorico  |
-|      20%     |      Tareas**    |
+|      10%     |  Examen teorico  |
+|      10%     |      Tareas**    |
 
 * Laboratorio de máqunas, reporte y presentación de resultados, 60% laboratorio y 20% reporte y presentación
 ** Tareas y reportes a mano
