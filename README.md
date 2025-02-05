@@ -19,6 +19,9 @@ La evaluación del curso será la siguiente:
 Nota: Tarea_copiada = anulacion_para_los_implicados - La vida es muy corta para preocuparse por atribuir responsabilidades
 Uso de herramientas de AI para creación del tareas y programas está totalmente descartado.
 
+Favor de agregar su número de cuenta, nombre completo, si van usar su equipo propio para la clase, pongan el nombre de su equipo de trabajo (máximo 2 personas), y si están inscritos o no para contabilizar los equipos de cómputo con los que contaríamos.
+[https://docs.google.com/spreadsheets/d/1r_9gVfm3XZm_TC9e1khsuqwE3icLKkPmfxyqPiiRcaA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1r_9gVfm3XZm_TC9e1khsuqwE3icLKkPmfxyqPiiRcaA/edit?usp=sharing)
+
 ## Grupo de trabajo de telegram
 [https://t.me/+MxIVXxHXKPM1YWEz](https://t.me/+IkH_e41JnS44ODJh)
 
