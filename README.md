@@ -22,7 +22,11 @@ Uso de herramientas de AI para creación del tareas y programas está totalmente
 ## Grupo de trabajo de telegram
 [https://t.me/+MxIVXxHXKPM1YWEz](https://t.me/+IkH_e41JnS44ODJh)
 
-<img src="https://github.com/user-attachments/assets/b368b203-ab62-4c56-848b-2c26be57414c" width="350" height="350">
+<img src="https://github.com/user-attachments/assets/b368b203-ab62-4c56-848b-2c26be57414c" width="200" height="200">
+
+## Laboratorio de clase
+Favor de revisar el archivo laboratorio.md
+No es necesario realizar el procedimiento en caso de usar alguno de los equipos del CEDETEC / Laboratorio, en caso contrario se sugiere que lo realices antes de la clase.
 
 ## Bibliografía
 * Under construction
