@@ -30,7 +30,7 @@ Recomiendo que se emplee docker para montar le laboratorio de forma rápida, cop
 ## Instalando docker
 Para instalar docker se requiere agregar los repositorios a Kali
 ```bash
-printf '%s\n' "deb https://download.docker.com/linux/debian bullseye stable" | tee /etc/apt/sources.list.d/docker-ce.list 
+printf '%s\n' "deb https://download.docker.com/linux/debian bullseye stable" | sudo tee /etc/apt/sources.list.d/docker-ce.list 
 ```
 Agregamos la llave de los repositorios  
 ```bash
@@ -46,18 +46,18 @@ sudo systemctl enable docker --now
 ```
 Dando permiso al usuario kali para el uso de docker
 ```bash
-sudo usermod -aG docker
+sudo usermod -aG docker kali
 ```
 
 ### Instalando Juice Shop
 Para instalar Juice Shop, se requiere instalar previamente docker
 Descarga de Juice Shop mediante docker
 ```bash
-Run docker pull bkimminich/juice-shop
+docker pull bkimminich/juice-shop
 ```
 Ejecución de la Juice Shop
 ```bash
-Run docker run --rm -p 127.0.0.1:3000:3000 bkimminich/juice-shop
+docker run --rm -p 127.0.0.1:3000:3000 bkimminich/juice-shop
 ```
 Ingresa a la URL http://localhost:3000 para ver si está funcionando correctamente.
 
