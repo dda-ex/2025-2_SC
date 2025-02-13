@@ -77,6 +77,7 @@ Ingresa a la URL http://localhost:3000 para ver si está funcionando correctamen
 Iniciando el laboratorio final
 ```bash
 cd /opt/lab
+git clone [git@github.com:dda-ex/2025-2_SC.git](https://github.com/dda-ex/2025-2_SC.git)
 sudo make deploy
 ```
 Deteniendo el laboratorio
