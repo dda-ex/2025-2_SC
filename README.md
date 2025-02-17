@@ -7,15 +7,15 @@ En este espacio se encontrarán las tareas y actividades que tendrán que desarr
 ## Evaluación
 La evaluación del curso será la siguiente:
 
-|  Porcentaje  |     Apartado     |
-|:------------:|:----------------:|
-|      80%     | Examen practico* |
-|      10%     |  Examen teorico  |
-|      10%     |      Tareas**    |
+|  Porcentaje  |     Apartado       |
+|:------------:|:------------------:|
+|      80%     | Examen practico[^1]|
+|      10%     |  Examen teorico    |
+|      10%     |      Tareas[^2]    |
 
-* Laboratorio de máqunas, reporte y presentación de resultados, 60% laboratorio y 20% reporte y presentación
-** Tareas y reportes a mano
-  
+[^1]: Laboratorio de máqunas, reporte y presentación de resultados, 60% laboratorio y 20% reporte y presentación
+[^2]: Tareas y reportes a mano
+
 Nota: Tarea_copiada = anulacion_para_los_implicados - La vida es muy corta para preocuparse por atribuir responsabilidades
 Uso de herramientas de AI para creación del tareas y programas está totalmente descartado.
 
@@ -31,5 +31,3 @@ Favor de agregar su número de cuenta, nombre completo, si van usar su equipo pr
 Favor de revisar el archivo laboratorio.md
 No es necesario realizar el procedimiento en caso de usar alguno de los equipos del CEDETEC / Laboratorio, en caso contrario se sugiere que lo realices antes de la clase.
 
-## Bibliografía
-* Under construction
