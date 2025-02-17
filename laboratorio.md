@@ -99,4 +99,10 @@ sudo make init
 Debido a limitantes en la imagen de docker de metasploitable 2 y que no todos los servicios son funcionales, se tendrá que descargar y ejecutar la imagen de laboratorio, que podrán encontrar en el siguiente enlace: [https://sourceforge.net/projects/metasploitable/files/Metasploitable2/](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 
 ## Easy way
-Si esto te confunde puedes descargar la imagen de kali que estaremos usando en clase: [https://www.youtube.com/watch?v=7GO1OZB0UMY](https://www.youtube.com/watch?v=7GO1OZB0UMY) disponible por 7 dias.
+Si esto te confunde puedes descargar la imagen de kali que estaremos usando en clase: [https://www.youtube.com/watch?v=7GO1OZB0UMY](https://www.youtube.com/watch?v=7GO1OZB0UMY) disponible por 7 días.
+
+| User | Pass |
+|------|------|
+| kali | kali |
+
+Si necesitas cambiar el teclado esta es una rápida guía: [https://mayadevbe.me/posts/linux_keyboard_layout/](https://mayadevbe.me/posts/linux_keyboard_layout/)
