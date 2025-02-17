@@ -76,8 +76,9 @@ Ingresa a la URL http://localhost:3000 para ver si está funcionando correctamen
 ### Instalando el lab final de pruebas
 Iniciando el laboratorio final
 ```bash
-cd /opt/lab
+cd /opt/
 git clone [git@github.com:dda-ex/2025-2_SC.git](https://github.com/dda-ex/2025-2_SC.git)
+cd 2025-2_SC/
 sudo make deploy
 ```
 Deteniendo el laboratorio
@@ -89,5 +90,13 @@ En caso de tener un problema con el sistema y solamente bajo condiciones particu
 sudo make clean
 ```
 
+Tambien se puede instalar casi todo lo previo (la parte de Juice Shop solo se tendria que hacer una vez) y nada de instalar docker porque se hace de forma automatizada, escribiendo en el directorio /opt/2025-2_SC/ 
+```bash
+sudo make init
+````
+
 ## Instalación y descarga de metasploitable 2
 Debido a limitantes en la imagen de docker de metasploitable 2 y que no todos los servicios son funcionales, se tendrá que descargar y ejecutar la imagen de laboratorio, que podrán encontrar en el siguiente enlace: [https://sourceforge.net/projects/metasploitable/files/Metasploitable2/](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+
+## Easy way
+Si esto te confunde puedes descargar la imagen de kali que estaremos usando en clase: [https://www.youtube.com/watch?v=7GO1OZB0UMY](https://www.youtube.com/watch?v=7GO1OZB0UMY) disponible por 7 dias.
